@@ -1,0 +1,3 @@
+[submodule "PrivateBin"]
+	path = PrivateBin
+	url = git@github.com:zehuanli-contextual/PrivateBin.git
